@@ -1,0 +1,51 @@
+.single-card-style {   
+    justify-self: center;
+    align-self: middle;
+    width : 70vw; 
+    height :fit-content;
+    overflow: scroll;
+    word-wrap:normal;
+    line-height:3ch;   
+    vertical-align:middle;
+    margin :auto;
+    margin-top: 5%;
+    box-shadow: 3px 3px 10px 5px #0000FF,
+                -3px -3px 10px 5px #0000FF;
+}
+
+.home-button{
+    margin-top: 0;
+    justify-content: flex-start;
+    width:15vw;
+    float:left;
+}
+
+.home-button > .ant-btn {
+line-height: 4vmax;   
+}
+
+.movie-title{
+    margin:auto;
+    display: inline-block;
+    width: 85vw;   
+    font-size: 1.2vmax;  
+}
+
+.details{
+    font-weight:bold;
+}
+
+.poster-col{
+    text-align: center;
+    background-color: black;
+   
+}
+
+
+
+
+
+
+
+
+
